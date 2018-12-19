@@ -20,7 +20,7 @@ with open(r'.\a.txt',encoding='utf8') as f:
 print(arr_t)
 
 
-arr_sorted = sorted(arr_s.items(),key=lambda x:(x[1]<0,abs(x[1])),reverse=True)
+arr_sorted = sorted(arr_s.items(),key=lambda x:(x[1]!=0,abs(x[1])),reverse=True)
 
 
 for item in arr_sorted:     
