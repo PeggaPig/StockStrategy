@@ -1,0 +1,8 @@
+{'up': 5, 'down': 2}
+('DOVA', {'result': 0.134587554, 'open': '6.91', 'close': '7.84', 'volume': '478870'})
+('SPPI', {'result': 0.123119015, 'open': '7.31', 'close': '8.21', 'volume': '1816102'})
+('BKD', {'result': -0.091822095, 'open': '6.97', 'close': '6.33', 'volume': '1161293'})
+('FLDM', {'result': 0.086657497, 'open': '7.27', 'close': '7.9', 'volume': '236672'})
+('OPTN', {'result': 0.085526316, 'open': '6.08', 'close': '6.6', 'volume': '169254'})
+('SYRS', {'result': 0.084278768, 'open': '6.17', 'close': '6.69', 'volume': '142843'})
+('SPWR', {'result': -0.08, 'open': '5', 'close': '4.6', 'volume': '2239844'})
