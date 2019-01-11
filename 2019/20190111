@@ -1,0 +1,8 @@
+{'up': 5, 'down': 2}
+('WBAI', {'result': 0.285992218, 'open': '10.28', 'close': '13.22', 'volume': '355338'})
+('CTK', {'result': 0.27420999, 'open': '9.81', 'close': '12.5', 'volume': '571150'})
+('NTRA', {'result': 0.129370629, 'open': '11.44', 'close': '12.92', 'volume': '1370609'})
+('BKS', {'result': -0.092724679, 'open': '7.01', 'close': '6.36', 'volume': '3729967'})
+('RELL', {'result': -0.082424242, 'open': '8.25', 'close': '7.57', 'volume': '100997'})
+('BBBY', {'result': 0.081756245, 'open': '13.21', 'close': '14.29', 'volume': '55190373'})
+('JKS', {'result': 0.081034483, 'open': '11.6', 'close': '12.54', 'volume': '845624'})
