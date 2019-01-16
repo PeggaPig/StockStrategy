@@ -1,0 +1,9 @@
+{'up': 7, 'down': 1}
+('STML', {'result': 0.139908257, 'open': '8.72', 'close': '9.94', 'volume': '2186211'})
+('RLH', {'result': 0.139169473, 'open': '8.91', 'close': '10.15', 'volume': '376626'})
+('DVAX', {'result': 0.112754159, 'open': '10.82', 'close': '12.04', 'volume': '1444695'})
+('OMER', {'result': 0.104972376, 'open': '12.67', 'close': '14', 'volume': '1330510'})
+('MAXR', {'result': -0.104501608, 'open': '6.22', 'close': '5.57', 'volume': '3076646'})
+('LJPC', {'result': 0.099348534, 'open': '6.14', 'close': '6.75', 'volume': '1279032'})
+('MNLO', {'result': 0.091089109, 'open': '5.05', 'close': '5.51', 'volume': '167800'})
+('FPRX', {'result': 0.089361702, 'open': '9.4', 'close': '10.24', 'volume': '325765'})
