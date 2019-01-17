@@ -1,0 +1,6 @@
+{'up': 3, 'down': 2}
+('CLPS', {'result': 0.121818182, 'open': '5.5', 'close': '6.17', 'volume': '571261'})
+('NFEC', {'result': -0.095714286, 'open': '14', 'close': '12.66', 'volume': '131806'})
+('EGAN', {'result': 0.095679012, 'open': '6.48', 'close': '7.1', 'volume': '295910'})
+('ENPH', {'result': 0.089722675, 'open': '6.13', 'close': '6.68', 'volume': '3825996'})
+('WATT', {'result': -0.084880637, 'open': '7.54', 'close': '6.9', 'volume': '921649'})
