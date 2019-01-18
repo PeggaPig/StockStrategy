@@ -1,0 +1,7 @@
+{'up': 3, 'down': 3}
+('USWS', {'result': 0.149717514, 'open': '7.08', 'close': '8.14', 'volume': '107463'})
+('QTNA', {'result': -0.097315436, 'open': '14.9', 'close': '13.45', 'volume': '2229812'})
+('PTGX', {'result': 0.096418733, 'open': '7.26', 'close': '7.96', 'volume': '275546'})
+('ESTE', {'result': -0.089030207, 'open': '6.29', 'close': '5.73', 'volume': '808186'})
+('CENX', {'result': 0.083432658, 'open': '8.39', 'close': '9.09', 'volume': '2188516'})
+('NTEC', {'result': -0.083333333, 'open': '8.16', 'close': '7.48', 'volume': '244899'})
