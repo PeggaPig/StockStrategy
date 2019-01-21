@@ -1,0 +1,10 @@
+{'up': 7, 'down': 2}
+('IO', {'result': 0.147579693, 'open': '8.47', 'close': '9.72', 'volume': '339277'})
+('ESTE', {'result': 0.141135972, 'open': '5.81', 'close': '6.63', 'volume': '570646'})
+('GNE', {'result': -0.117117117, 'open': '9.99', 'close': '8.82', 'volume': '955418'})
+('AQST', {'result': -0.109395109, 'open': '7.77', 'close': '6.92', 'volume': '140800'})
+('OSTK', {'result': 0.109237537, 'open': '13.64', 'close': '15.13', 'volume': '5474267'})
+('CWH', {'result': 0.101718213, 'open': '14.55', 'close': '16.03', 'volume': '2292492'})
+('YIN', {'result': 0.090909091, 'open': '6.27', 'close': '6.84', 'volume': '355608'})
+('PRT', {'result': 0.09017341, 'open': '8.65', 'close': '9.43', 'volume': '144043'})
+('ALDR', {'result': 0.083198708, 'open': '12.38', 'close': '13.41', 'volume': '1777283'})
