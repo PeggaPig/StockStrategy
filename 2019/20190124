@@ -1,0 +1,8 @@
+{'up': 3, 'down': 4}
+('SYRS', {'result': -0.16642547, 'open': '6.91', 'close': '5.76', 'volume': '254334'})
+('AOSL', {'result': 0.146744412, 'open': '10.29', 'close': '11.8', 'volume': '258443'})
+('LXRX', {'result': -0.134715026, 'open': '5.79', 'close': '5.01', 'volume': '1479956'})
+('UROV', {'result': -0.129230769, 'open': '9.75', 'close': '8.49', 'volume': '161260'})
+('DXR', {'result': 0.117849759, 'open': '14.51', 'close': '16.22', 'volume': '117010'})
+('LFVN', {'result': 0.112491373, 'open': '14.49', 'close': '16.12', 'volume': '583358'})
+('NTRA', {'result': -0.091298146, 'open': '14.02', 'close': '12.74', 'volume': '617194'})
