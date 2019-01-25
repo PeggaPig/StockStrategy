@@ -1,0 +1,8 @@
+{'up': 7, 'down': 0}
+('TGI', {'result': 0.1875, 'open': '14.08', 'close': '16.72', 'volume': '2654884'})
+('AQ', {'result': 0.13373494, 'open': '8.3', 'close': '9.41', 'volume': '885811'})
+('ADTN', {'result': 0.104234528, 'open': '12.28', 'close': '13.56', 'volume': '1431094'})
+('OSTK', {'result': 0.095634096, 'open': '14.43', 'close': '15.81', 'volume': '2222059'})
+('RDHL', {'result': 0.084958217, 'open': '7.18', 'close': '7.79', 'volume': '248241'})
+('CCXI', {'result': 0.084545455, 'open': '11', 'close': '11.93', 'volume': '155009'})
+('CAAP', {'result': 0.080062794, 'open': '6.37', 'close': '6.88', 'volume': '338146'})
