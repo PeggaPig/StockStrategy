@@ -1,0 +1,10 @@
+{'up': 8, 'down': 1}
+('TOCA', {'result': 0.130925508, 'open': '8.86', 'close': '10.02', 'volume': '248734'})
+('FPRX', {'result': 0.116011505, 'open': '10.43', 'close': '11.64', 'volume': '344590'})
+('JKS', {'result': 0.108363636, 'open': '13.75', 'close': '15.24', 'volume': '1844516'})
+('NFEC', {'result': -0.106715731, 'open': '10.87', 'close': '9.71', 'volume': '126212'})
+('MCRB', {'result': 0.102752294, 'open': '5.45', 'close': '6.01', 'volume': '301935'})
+('BCRX', {'result': 0.099547511, 'open': '8.84', 'close': '9.72', 'volume': '1220506'})
+('UCTT', {'result': 0.094527363, 'open': '10.05', 'close': '11', 'volume': '1076612'})
+('DOVA', {'result': 0.093150685, 'open': '7.3', 'close': '7.98', 'volume': '306201'})
+('RCUS', {'result': 0.083509514, 'open': '9.46', 'close': '10.25', 'volume': '122393'})
