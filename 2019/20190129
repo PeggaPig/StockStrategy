@@ -1,0 +1,9 @@
+{'up': 4, 'down': 4}
+('SURF', {'result': 0.117870722, 'open': '5.26', 'close': '5.88', 'volume': '167306'})
+('NFEC', {'result': -0.11028632, 'open': '9.43', 'close': '8.39', 'volume': '132155'})
+('CATS', {'result': 0.105691057, 'open': '11.07', 'close': '12.24', 'volume': '207603'})
+('VERI', {'result': 0.096339114, 'open': '5.19', 'close': '5.69', 'volume': '987024'})
+('TELL', {'result': 0.094890511, 'open': '8.22', 'close': '9', 'volume': '2895398'})
+('BCRX', {'result': -0.091370558, 'open': '9.85', 'close': '8.95', 'volume': '1240797'})
+('FPRX', {'result': -0.08419244, 'open': '11.64', 'close': '10.66', 'volume': '323328'})
+('VRAY', {'result': -0.082568807, 'open': '7.63', 'close': '7', 'volume': '2265594'})
