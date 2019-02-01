@@ -1,0 +1,7 @@
+{'up': 4, 'down': 2}
+('CAAP', {'result': 0.141643059, 'open': '7.06', 'close': '8.06', 'volume': '422130'})
+('BLFS', {'result': 0.114741641, 'open': '13.16', 'close': '14.67', 'volume': '202485'})
+('EGOV', {'result': 0.100671141, 'open': '14.9', 'close': '16.4', 'volume': '2258721'})
+('FLEX', {'result': -0.088151659, 'open': '10.55', 'close': '9.62', 'volume': '17386689'})
+('CNX', {'result': -0.086531226, 'open': '13.29', 'close': '12.14', 'volume': '11408203'})
+('QTNT', {'result': 0.086060606, 'open': '8.25', 'close': '8.96', 'volume': '742645'})
