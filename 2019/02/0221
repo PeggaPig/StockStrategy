@@ -1,0 +1,8 @@
+{'up': 7, 'down': 0}
+('ACMR', {'result': 0.151151151, 'open': '9.99', 'close': '11.5', 'volume': '191919'})
+('QUAD', {'result': 0.149222065, 'open': '14.14', 'close': '16.25', 'volume': '1104558'})
+('BE', {'result': 0.107526882, 'open': '11.16', 'close': '12.36', 'volume': '1162185'})
+('LKSD', {'result': 0.107058824, 'open': '8.5', 'close': '9.41', 'volume': '1054917'})
+('SAH', {'result': 0.096286107, 'open': '14.54', 'close': '15.94', 'volume': '345171'})
+('WATT', {'result': 0.09, 'open': '10', 'close': '10.9', 'volume': '1880911'})
+('MRAM', {'result': 0.087223587, 'open': '8.14', 'close': '8.85', 'volume': '815195'})
