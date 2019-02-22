@@ -1,0 +1,8 @@
+up : 2
+down : 4
+gsvc : {"result": 0.12724306688417622, "open": 6.13, "close": 6.91, "volume": 493567}
+ard : {"result": -0.10112359550561795, "open": 14.24, "close": 12.8, "volume": 201065}
+tmst : {"result": 0.13841113841113836, "open": 12.21, "close": 13.9, "volume": 1188865}
+pte : {"result": -0.1144927536231884, "open": 13.8, "close": 12.22, "volume": 564568}
+aqst : {"result": -0.10172143974960869, "open": 6.39, "close": 5.74, "volume": 174981}
+lby : {"result": -0.3287937743190661, "open": 5.14, "close": 3.45, "volume": 2558318}
