@@ -1,0 +1,14 @@
+up : 10
+down : 2
+yrd : {"result": 0.11605723370429245, "open": 12.58, "close": 14.04, "volume": 470013}
+asur : {"result": 0.08044164037854887, "open": 6.34, "close": 6.85, "volume": 183745}
+ecor : {"result": 0.16342412451361876, "open": 7.71, "close": 8.97, "volume": 410239}
+derm : {"result": 0.08683853459972858, "open": 7.37, "close": 8.01, "volume": 571019}
+glmd : {"result": 0.08563899868247699, "open": 7.59, "close": 8.24, "volume": 180009}
+cbay : {"result": 0.09883720930232553, "open": 10.32, "close": 11.34, "volume": 1171924}
+dplo : {"result": -0.34340044742729303, "open": 8.94, "close": 5.87, "volume": 18032084}
+viot : {"result": 0.1291666666666667, "open": 9.6, "close": 10.84, "volume": 596592}
+akba : {"result": 0.10407239819004531, "open": 6.63, "close": 7.32, "volume": 1554847}
+lx : {"result": 0.11456310679611648, "open": 10.3, "close": 11.48, "volume": 764723}
+kpti : {"result": -0.44039735099337746, "open": 9.06, "close": 5.07, "volume": 16564327}
+ryb : {"result": 0.09257003654080387, "open": 8.21, "close": 8.97, "volume": 706873}
