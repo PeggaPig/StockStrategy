@@ -1,0 +1,18 @@
+up : 10
+down : 6
+cats : {"result": -0.09090909090909091, "open": 11.0, "close": 10.0, "volume": 130767}
+mdr : {"result": 0.10957004160887657, "open": 7.21, "close": 8.0, "volume": 17229245}
+auph : {"result": 0.13385826771653553, "open": 6.35, "close": 7.2, "volume": 3856661}
+asur : {"result": -0.08225108225108217, "open": 6.93, "close": 6.36, "volume": 306971}
+cnst : {"result": 0.12434691745036568, "open": 9.57, "close": 10.76, "volume": 175705}
+xyf : {"result": 0.21025641025641034, "open": 5.85, "close": 7.08, "volume": 140054}
+niu : {"result": 0.08854166666666663, "open": 7.68, "close": 8.36, "volume": 206855}
+veri : {"result": 0.2000000000000001, "open": 5.3, "close": 6.36, "volume": 2491690}
+mgta : {"result": 0.10272536687631033, "open": 9.54, "close": 10.52, "volume": 176440}
+star : {"result": -0.10331384015594547, "open": 10.26, "close": 9.2, "volume": 1182221}
+mgtx : {"result": 0.09451219512195125, "open": 13.12, "close": 14.36, "volume": 374536}
+tzoo : {"result": -0.15096860387441546, "open": 14.97, "close": 12.71, "volume": 248448}
+tgh : {"result": -0.09810126582278482, "open": 12.64, "close": 11.4, "volume": 428545}
+watt : {"result": -0.12630662020905933, "open": 11.48, "close": 10.03, "volume": 2395890}
+abeo : {"result": 0.08271787296898088, "open": 6.77, "close": 7.33, "volume": 1045588}
+aqst : {"result": 0.09284627092846262, "open": 6.57, "close": 7.18, "volume": 205728}
