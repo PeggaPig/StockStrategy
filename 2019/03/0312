@@ -1,0 +1,10 @@
+up : 7
+down : 1
+('mcrb', {'result': 0.1880819366852886, 'open': 5.37, 'close': 6.38, 'volume': 10330942})
+('cnst', {'result': -0.13411078717201158, 'open': 10.29, 'close': 8.91, 'volume': 101072})
+('wtrh', {'result': 0.13031914893617028, 'open': 11.28, 'close': 12.75, 'volume': 1650630})
+('veri', {'result': 0.10666666666666662, 'open': 6.0, 'close': 6.64, 'volume': 856444})
+('jynt', {'result': 0.10370370370370373, 'open': 13.5, 'close': 14.9, 'volume': 354618})
+('new', {'result': 0.10048622366288494, 'open': 6.17, 'close': 6.79, 'volume': 116806})
+('drna', {'result': 0.0890538033395177, 'open': 10.78, 'close': 11.74, 'volume': 931976})
+('cbio', {'result': 0.08111533586818755, 'open': 7.89, 'close': 8.53, 'volume': 237888})
