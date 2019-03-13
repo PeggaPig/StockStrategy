@@ -1,0 +1,13 @@
+up : 8
+down : 3
+('dova', {'result': 0.17780580075662045, 'open': 7.93, 'close': 9.34, 'volume': 440175})
+('stml', {'result': 0.16832579185520355, 'open': 11.05, 'close': 12.91, 'volume': 1397233})
+('keyw', {'result': 0.1567267683772538, 'open': 7.21, 'close': 8.34, 'volume': 953974})
+('swch', {'result': 0.11497005988023963, 'open': 8.35, 'close': 9.31, 'volume': 4120277})
+('io', {'result': 0.11437170805116639, 'open': 13.29, 'close': 14.81, 'volume': 267511})
+('syrs', {'result': 0.10942249240121577, 'open': 6.58, 'close': 7.3, 'volume': 270998})
+('aldx', {'result': 0.10545905707196025, 'open': 8.06, 'close': 8.91, 'volume': 405252})
+('akba', {'result': -0.10000000000000003, 'open': 9.0, 'close': 8.1, 'volume': 9266360})
+('htgc', {'result': -0.09124906507105451, 'open': 13.37, 'close': 12.15, 'volume': 10309126})
+('glmd', {'result': -0.09030100334448166, 'open': 8.97, 'close': 8.16, 'volume': 319214})
+('altm', {'result': 0.08406304728546417, 'open': 5.71, 'close': 6.19, 'volume': 850563})
