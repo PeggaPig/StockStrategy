@@ -1,0 +1,8 @@
+up : 4
+down : 2
+('sien', {'result': -0.16717948717948725, 'open': 9.75, 'close': 8.12, 'volume': 6624080})
+('syrs', {'result': 0.12361111111111106, 'open': 7.2, 'close': 8.09, 'volume': 254804})
+('zagg', {'result': -0.11651376146788986, 'open': 10.9, 'close': 9.63, 'volume': 1741372})
+('ntgn', {'result': 0.09374999999999996, 'open': 5.44, 'close': 5.95, 'volume': 352186})
+('bpi', {'result': 0.09177215189873418, 'open': 6.32, 'close': 6.9, 'volume': 465279})
+('alna', {'result': 0.08382352941176476, 'open': 6.8, 'close': 7.37, 'volume': 271624})
