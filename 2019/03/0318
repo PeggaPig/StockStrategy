@@ -1,0 +1,17 @@
+up : 11
+down : 4
+('mgta', {'result': 0.23925501432664753, 'open': 13.96, 'close': 17.3, 'volume': 1448758})
+('srts', {'result': 0.21607378129117266, 'open': 7.59, 'close': 9.23, 'volume': 110085})
+('rmed', {'result': -0.1945454545454546, 'open': 5.5, 'close': 4.43, 'volume': 510267})
+('hwcc', {'result': 0.18774703557312258, 'open': 5.06, 'close': 6.01, 'volume': 203921})
+('avid', {'result': 0.16448598130841138, 'open': 5.35, 'close': 6.23, 'volume': 2922552})
+('ptgx', {'result': 0.15778894472361812, 'open': 9.95, 'close': 11.52, 'volume': 416531})
+('mpo', {'result': 0.12441860465116283, 'open': 8.6, 'close': 9.67, 'volume': 403332})
+('curo', {'result': 0.11840796019900492, 'open': 10.05, 'close': 11.24, 'volume': 1042827})
+('cats', {'result': 0.10471622701838533, 'open': 12.51, 'close': 13.82, 'volume': 1041737})
+('asur', {'result': -0.09784172661870512, 'open': 6.95, 'close': 6.27, 'volume': 675522})
+('mrkr', {'result': 0.09737827715355814, 'open': 5.34, 'close': 5.86, 'volume': 298094})
+('nrcg', {'result': 0.09390243902439041, 'open': 8.2, 'close': 8.97, 'volume': 118380})
+('kirk', {'result': -0.0929965556831229, 'open': 8.71, 'close': 7.9, 'volume': 1426294})
+('mram', {'result': 0.09175531914893635, 'open': 7.52, 'close': 8.21, 'volume': 492199})
+('cbl-d', {'result': -0.08022690437601299, 'open': 12.34, 'close': 11.35, 'volume': 128848})
