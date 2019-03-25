@@ -1,0 +1,12 @@
+up : 0
+down : 10
+('lxrx', {'result': -0.2161820480404551, 'open': 7.91, 'close': 6.2, 'volume': 3482386})
+('cplg', {'result': -0.1966335118592196, 'open': 13.07, 'close': 10.5, 'volume': 4035479})
+('vktx', {'result': -0.09825327510917034, 'open': 9.16, 'close': 8.26, 'volume': 3944350})
+('tbio', {'result': -0.09768378650553866, 'open': 9.93, 'close': 8.96, 'volume': 122971})
+('abeo', {'result': -0.09068923821039904, 'open': 8.27, 'close': 7.52, 'volume': 578904})
+('xone', {'result': -0.0875, 'open': 9.6, 'close': 8.76, 'volume': 170179})
+('sgmo', {'result': -0.08539094650205761, 'open': 9.72, 'close': 8.89, 'volume': 1857793})
+('mcrn', {'result': -0.08161648177496034, 'open': 12.62, 'close': 11.59, 'volume': 399281})
+('nerv', {'result': -0.0811138014527845, 'open': 8.26, 'close': 7.59, 'volume': 159215})
+('usx', {'result': -0.08066759388038944, 'open': 7.19, 'close': 6.61, 'volume': 726201})
